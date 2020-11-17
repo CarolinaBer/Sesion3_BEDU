@@ -11,4 +11,5 @@
 ![imagen](imagenes/Reto3.png)
 ![imagen](imagenes/Reto3.1.png)
 ![imagen](imagenes/Reto3.2.png)
-
+![imagen](imagenes/Reto3.3.png)
+![imagen](imagenes/Reto3.4.png)
