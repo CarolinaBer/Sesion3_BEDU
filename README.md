@@ -18,6 +18,7 @@ Imágenes consultadas en: Sarmiento M.(2017). Cómo crear relaciones entre tabla
 Las soluciones a los retos de esta sesión son las siguientes:
 ## :pushpin: Reto 1: Subconsultas.
 ![imagen](imagenes/Reto1.png)
+![imagen](imagenes/Reto1s.png)
 ![imagen](imagenes/Reto1.1.png)
 ![imagen](imagenes/Reto1.2.png)
 
