@@ -20,6 +20,11 @@ Las soluciones a los retos de esta sesión son las siguientes:
 ![imagen](imagenes/Reto1.png)
 ![imagen](imagenes/Reto1.1.png)
 ![imagen](imagenes/Reto1.2.png)
+
+#### Un poco acerca de JOIN:
+![imagen](imagenes/JOINs.png)
+
+Imagen tomada de: Prieto Fernandéz, R.(2020). ¿Cómo funcionan los principales SQL JOINS?[Blog] Retrived from https://www.raulprietofernandez.net/blog/bases-de-datos/como-funcionan-los-principales-sql-joins
 ## :pushpin: Reto 2: Joins.
 ![imagen](imagenes/Reto2.png)
 ![imagen](imagenes/Reto2.1.png)
