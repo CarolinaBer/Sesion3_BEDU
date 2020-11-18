@@ -11,8 +11,11 @@ Por otro lado, una **llave foránea** representa una relación entre dos tablas.
 ![imagen](imagenes/muchosAmuchos.png)
 ### Uno a uno.
 ![imagen](imagenes/unoAuno.png)
+
+
 Imágenes consultadas en: Sarmiento M.(2017). Cómo crear relaciones entre tablas en MySQL con Workbench.[Blog].Retrieved from http://www.marcossarmiento.com/2017/05/05/como-crear-relaciones-entre-tablas-en-mysql-con-workbench/
 
+Las soluciones a los retos de esta sesión son las siguientes:
 ## :pushpin: Reto 1: Subconsultas.
 ![imagen](imagenes/Reto1.png)
 ![imagen](imagenes/Reto1.1.png)
